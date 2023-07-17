@@ -25,8 +25,9 @@ Here are some of the key projects you'll find in this repository:
 ## Get in Touch
 I'm always excited to collaborate and connect with fellow developers, so feel free to reach out to me. You can find me on the following platforms:
 
-GitHub: github.com/craiglobo
-LinkedIn: linkedin.com/in/craiglobo
+**GitHub**: github.com/craiglobo
+
+**LinkedIn**: linkedin.com/in/craiglobo
 
 ## Contributions
 I welcome contributions to any of my projects. If you spot any issues, have suggestions for improvements, or would like to collaborate, please don't hesitate to create a pull request or open an issue.
