@@ -5,10 +5,11 @@ Welcome to my GitHub repository! I'm Craig Lobo, a computer science student at t
 # About Me
 I'm a curious and driven individual who loves to explore the fascinating world of computer science. Currently pursuing my degree in Computer Science at the University of Alberta, I am eager to learn and contribute to innovative projects in the field of backend and microsystems development.
 
-#My Interests
-Backend Development: I enjoy working on the server-side of applications, building robust APIs, managing databases, and optimizing performance.
-Microsystems Development: Exploring the world of microsystems, I am intrigued by embedded systems, IoT devices, and their integration with larger systems.
-#My Projects
+# My Interests
+- Backend Development: I enjoy working on the server-side of applications, building robust APIs, managing databases, and optimizing performance.
+- Microsystems Development: Exploring the world of microsystems, I am intrigued by embedded systems, IoT devices, and their integration with larger systems.
+
+# My Projects
 Here are some of the key projects you'll find in this repository:
 
 **Vaccine Distribution Network**:
