@@ -31,7 +31,7 @@ LinkedIn: linkedin.com/in/craiglobo
 ## Contributions
 I welcome contributions to any of my projects. If you spot any issues, have suggestions for improvements, or would like to collaborate, please don't hesitate to create a pull request or open an issue.
 
-# Looking Ahead
+## Looking Ahead
 As I continue my journey as a computer science student and developer, I plan to expand my skills and explore new areas of interest. I'm excited about the future possibilities and the chance to make meaningful contributions to the tech community.
 
 Thank you for stopping by and getting to know me a little better. Happy coding! 🚀
