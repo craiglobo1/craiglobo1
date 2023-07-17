@@ -1,15 +1,15 @@
-Hello, fellow developers! 👋
+# Hello, fellow developers! 👋
 
 Welcome to my GitHub repository! I'm Craig Lobo, a computer science student at the University of Alberta with a passion for backend development and microsystems development. This README serves as an introduction to the projects and code you'll find here.
 
-# About Me
+## About Me
 I'm a curious and driven individual who loves to explore the fascinating world of computer science. Currently pursuing my degree in Computer Science at the University of Alberta, I am eager to learn and contribute to innovative projects in the field of backend and microsystems development.
 
-# My Interests
+## My Interests
 - Backend Development: I enjoy working on the server-side of applications, building robust APIs, managing databases, and optimizing performance.
 - Microsystems Development: Exploring the world of microsystems, I am intrigued by embedded systems, IoT devices, and their integration with larger systems.
 
-# My Projects
+## My Projects
 Here are some of the key projects you'll find in this repository:
 
 - **Vaccine Distribution Network**: A Visualization and thought experiment of distributing the vaccine globally using a Genetic Algorithm to get to every country in the world with a set number of planes from a single destination.
@@ -22,13 +22,13 @@ Here are some of the key projects you'll find in this repository:
 
 - **Handwrite** - Take physical notes into the digital realm: It is a project made for HackEd (Hackathon) to allow users to convert handwritten notes into digitally typed documents that users can copy and edit from.
 
-# Get in Touch
+## Get in Touch
 I'm always excited to collaborate and connect with fellow developers, so feel free to reach out to me. You can find me on the following platforms:
 
 GitHub: github.com/craiglobo
 LinkedIn: linkedin.com/in/craiglobo
 
-# Contributions
+## Contributions
 I welcome contributions to any of my projects. If you spot any issues, have suggestions for improvements, or would like to collaborate, please don't hesitate to create a pull request or open an issue.
 
 # Looking Ahead
